@@ -1,1 +1,27 @@
-<h3 align="center" title="Хрю хрю зачем ты сюда зашел мяу мяу">Hello my Wayfarer ⛰️</h3>
+<h1 align="center">Hello my Wayfarer ⛰️</h1>
+
+---
+
+<h3 align="center">🛠 Skills</h3>
+
+<p align="center">
+  <strong>🚀🦀 Most Loved Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=js,discordjs,nodejs,rust,arch,windows,vscode,nginx" alt="Most Loved Tools" />
+</p>
+
+<p align="center">
+  <strong>🙇‍♀️ I can do it if it's useful to me</strong><br>
+  <img src="https://skillicons.dev/icons?i=zig,ts,py,lua,sqlite" alt="I can do it if it's useful to me" />
+</p>
+
+<p align="center">
+  <strong>🧙‍♂️ I plan to touch it and understand whether I need it or not</strong><br>
+  <img src="https://skillicons.dev/icons?i=cpp,c,dotnet,fortran,go,haskell,nim" alt="I plan to touch it and understand whether I need it or not" />
+</p>
+
+---
+
+<p align="center">
+  Feel free to connect with me:<br>
+  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> | <a href="https://twitter.com/your-handle">Twitter</a>
+</p>
