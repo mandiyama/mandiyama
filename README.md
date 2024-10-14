@@ -20,8 +20,3 @@
 </p>
 
 ---
-
-<p align="center">
-  Feel free to connect with me:<br>
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> | <a href="https://twitter.com/your-handle">Twitter</a>
-</p>
