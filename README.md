@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>🧙‍♂️ I plan to touch them and figure out if I need it or not</strong><br>
-  <img src="https://skillicons.dev/icons?i=cpp,c,dotnet,fortran,go,haskell,nim" alt="I plan to touch them and figure out if I need it or not" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,dotnet,fortran,go,haskell,nim,nix" alt="I plan to touch them and figure out if I need it or not" />
 </p>
 
 ---
