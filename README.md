@@ -1,1 +1,1 @@
-<h1 align="center">Hello Wayfarer</h1>
+<h1 align="center">Ahoj Wayfarer</h1>
